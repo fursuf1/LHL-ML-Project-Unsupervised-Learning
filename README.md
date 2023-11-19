@@ -24,12 +24,12 @@ I delved into shopping behaviors using computer magic! My mission was to discove
 ## Project Process⚙️
 1. 🧹 **Data Cleanup**: I tidied up the shopping data to make it clear.
 2. 🤝 **Grouping Similar Items**: I sorted things into groups to find similarities.
-3. 📊 **Making Cool Pictures**: I made charts to show connections.
+3. 📊 **Making Graphs**: I made charts to show connections.
 4. 🔍 **Finding Important Clues**: I tried to discover the key things about shopping.
 
 ## Project Results 📊
 - 🌟 **Top Sellers**: Fresh products are the winners, followed closely by groceries.
-- 👥 **Shopper Types**: I found different kinds of shoppers using our grouping method.
+- 👥 **Shopper Types**: Found different kinds of shoppers by grouping them.
 - 🧩 **Clearer Results**: Clear results were obtained.
 - 📈 **Key Insights**: Generated key insights about shopping habits.
 
@@ -39,7 +39,7 @@ I delved into shopping behaviors using computer magic! My mission was to discove
 2. 📉 **Outlier Detection**: Employed techniques to identify and handle outliers in the dataset.
 3. 🔄 **Data Transformation**: Performed necessary transformations on the data to make it suitable for analysis.
 4. 🧮 **Feature Selection**: Picked important features to understand what matters most.
-5. 📈 **Clustering Analysis**: Utilized KMeans and Hierarchical clustering techniques for segmenting similar products.
+5. 📈 **Clustering Analysis**: Utilized KMeans, Hierarchical clustering and PCA techniques for segmenting similar products.
 
 ## Conclusions 📊
 - Most customers spend moderately, but a few spend significantly more in each product category.
