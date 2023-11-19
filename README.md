@@ -12,31 +12,31 @@
 
 ## Table of Contents
 - [Project Goal](#project-goal)
-- [How We Did It](#how-we-did-it)
-- [What We Found](#what-we-found)
+- [Project Process](#Project-Process)
+- [Project Results](#Project-Results)
 - [Challenges Faced](#challenges-faced)
-- [What's Next](#whats-next)
+- [Future Considerations](#Future-Considerations )
 
-## Project Goal
+## Project Goal🎯
 We delved into shopping behaviors using computer magic! Our mission was to discover fascinating insights about how people shop.
 
-## How We Did It
+## Project Process⚙️
 1. 🧹 **Data Cleanup**: We tidied up the shopping data to make it crystal clear.
 2. 🤝 **Grouping Similar Items**: We sorted things into groups to find similar stuff.
 3. 📊 **Making Cool Pictures**: We made special charts to show how everything connects.
 4. 🔍 **Finding Important Clues**: We discovered the key things that tell us a lot about shopping.
 
-## What We Found
+## Project Results 📊
 - 🌟 **Top Sellers**: Fresh products are the winners, followed closely by groceries.
 - 👥 **Shopper Types**: We found 4 different kinds of shoppers using our special grouping method.
 - 🧩 **Clearer Results**: Our method showed us clearer results compared to other ways.
 - 📈 **Key Insights**: Just 3 important things tell us almost everything about shopping habits.
 
-## Challenges Faced
+## Challenges Faced🛠
 - 🕵️‍♂️ **Data Cleanup Race**: We ran out of time to clean up all the tricky parts in the data.
 - ⏰ **Time-Consuming Tasks**: Some functions took longer than expected, slowing down our progress.
 
-## What's Next
+## Future Considerations 🚀
 1. 🧼 **Better Data Cleaning**: Improve our method to clean up data more efficiently.
 2. 📊 **Performance Check**: Verify if our special grouping method is doing a great job.
 3. 🔍 **Hunt for Key Factors**: Spend more time finding the top things that matter most for better shopping ideas!
