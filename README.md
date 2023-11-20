@@ -22,10 +22,10 @@
 I delved into shopping behaviors using computer magic! My mission was to discover fascinating insights about how people shop.
 
 ## Project Process⚙️
-1. 🧹 **Data Cleanup**: I tidied up the shopping data to make it clear.
-2. 🤝 **Grouping Similar Items**: I sorted things into groups to find similarities.
-3. 📊 **Making Graphs**: I made charts to show connections.
-4. 🔍 **Finding Important Clues**: I tried to discover the key things about shopping.
+- 🧹 **Data Cleanup**: I tidied up the shopping data to make it clear.
+- 🤝 **Grouping Similar Items**: I sorted things into groups to find similarities.
+- 📊 **Making Graphs**: I made charts to show connections.
+- 🔍 **Finding Important Clues**: I tried to discover the key things about shopping.
 
 ## Project Results 📊
 - 🌟 **Top Sellers**: Fresh products are the winners, followed closely by groceries.
@@ -35,11 +35,11 @@ I delved into shopping behaviors using computer magic! My mission was to discove
 
 
 ## Techniques Used🛠
-1. 📊 **Exploratory Data Analysis (EDA)**: Used various visualizations like histograms, box plots, and heatmaps to understand data trends.
-2. 📉 **Outlier Detection**: Employed techniques to identify and handle outliers in the dataset.
-3. 🔄 **Data Transformation**: Performed necessary transformations on the data to make it suitable for analysis.
-4. 🧮 **Feature Selection**: Picked important features to understand what matters most.
-5. 📈 **Clustering Analysis**: Utilized KMeans, Hierarchical clustering and PCA techniques for segmenting similar products.
+- 📊 **Exploratory Data Analysis (EDA)**: Used various visualizations like histograms, box plots, and heatmaps to understand data trends.
+- 📉 **Outlier Detection**: Employed techniques to identify and handle outliers in the dataset.
+- 🔄 **Data Transformation**: Performed necessary transformations on the data to make it suitable for analysis.
+- 🧮 **Feature Selection**: Picked important features to understand what matters most.
+- 📈 **Clustering Analysis**: Utilized KMeans, Hierarchical clustering and PCA techniques for segmenting similar products.
 
 ## Conclusions 📊
 - Most customers spend moderately, but a few spend significantly more in each product category.
@@ -53,6 +53,6 @@ I delved into shopping behaviors using computer magic! My mission was to discove
 - ⏰ **Time-Consuming Tasks**: Some functions took longer than expected, slowing down my progress.
 
 ## Future Considerations 🚀
-1. 🧼 **Better Data Cleaning**: I plan to improve my method to clean up data more efficiently.
-2. 📊 **Performance Check**: Verifying if my grouping method is doing a great job.
-3. 🔍 **Hunt for Key Factors**: I aim to spend more time finding the top things that matter most for better shopping ideas!
+- 🧼 **Better Data Cleaning**: I plan to improve my method to clean up data more efficiently.
+- 📊 **Performance Check**: Verifying if my grouping method is doing a great job.
+- 🔍 **Hunt for Key Factors**: I aim to spend more time finding the top things that matter most for better shopping ideas!
